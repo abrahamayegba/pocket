@@ -1,6 +1,6 @@
 # Pocket App
 
-[![Pocket App](./public/pocket.png)](https://pocketapp-beta.vercel.app/)
+[![Pocket App](./src/public/pocket.png)](https://pocketapp-beta.vercel.app/)
 
 **Pocket** is a progressive web application (PWA) built with Next.js, designed to help users invest at the perfect time by leveraging insights from a network of industry insiders. This intuitive app provides valuable information to maximize profits and avoid losses by knowing exactly when to buy and sell.
 
