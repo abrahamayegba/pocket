@@ -59,6 +59,7 @@ export function Footer() {
           <p className="flex pt-8 text-xs leading-5 text-gray-800 md:justify-center">
             &copy; {`${year}`} Built by
             <Link
+              target="_blank"
               href="https://github.com/abrahamayegba"
               className="ml-1 underline hover:text-neutral-600"
             >
