@@ -11,7 +11,7 @@
 - **User-Friendly Interface**: Inspired by Tailwind UI, the app offers a clean, intuitive, and responsive design.
 - **Progressive Web App**: Install the app on your device and use it offline for a seamless experience.
 
-**Invest at the Perfect Time**
+**Invest at the Perfect Time**:
 By leveraging insights from our network of industry insiders, you’ll know exactly when to buy to maximize profit, and exactly when to sell to avoid painful losses. Pocket ensures you stay ahead in the investment game with timely and accurate information.
 
 ## Getting Started
